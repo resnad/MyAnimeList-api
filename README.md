@@ -1,0 +1,1 @@
+Script for scrapping the top 500 anime from MyAnimeList and API code to serve the data.
